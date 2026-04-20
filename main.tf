@@ -96,4 +96,3 @@ resource "aws_instance" "node" {
     interpreter = ["Powershell", "-Command"]
   }
 }
-
